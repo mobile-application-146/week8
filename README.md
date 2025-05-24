@@ -1,16 +1,14 @@
 # lab8
 
-A new Flutter project.
+**A food items list where a user can add an item to favourites**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+**First Screen**
+![image](https://github.com/user-attachments/assets/162b0902-e2b6-4a8d-9ca6-41673a650e79)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+**Second Screen**
+![image](https://github.com/user-attachments/assets/eed079ba-2fb9-4ded-ae1a-7d4a70ed570a)
+
